@@ -30,7 +30,7 @@ class LoginPage(BasePage):
         self.do_click(self.LOGIN)
 
         print("first commit")
-        
+        print("git bash here")
         
 
 
