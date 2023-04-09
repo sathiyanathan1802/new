@@ -34,6 +34,8 @@ class LoginPage(BasePage):
         print("its woring")
         print("its good")
         
+        print()all is good
+        
 
 
 
