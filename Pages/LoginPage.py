@@ -32,6 +32,7 @@ class LoginPage(BasePage):
         print("first commit")
         print("git bash here")
         print("its woring")
+        print("its good")
         
 
 
