@@ -30,7 +30,8 @@ class LoginPage(BasePage):
         self.do_click(self.LOGIN)
 
         print("first commit")
-        print("second commit")
+        
+        
 
 
 
