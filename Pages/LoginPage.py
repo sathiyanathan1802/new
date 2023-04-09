@@ -29,8 +29,7 @@ class LoginPage(BasePage):
         self.do_sendKeys(self.PWD,password)
         self.do_click(self.LOGIN)
 
-print the stateemnt
-print ("dekte the line")
+
         
 
 
