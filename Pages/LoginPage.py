@@ -29,12 +29,7 @@ class LoginPage(BasePage):
         self.do_sendKeys(self.PWD,password)
         self.do_click(self.LOGIN)
 
-        print("first commit")
-        print("git bash here")
-        print("its woring")
-        print("its good")
         
-        print()all is good
         
 
 
